@@ -124,12 +124,16 @@ flowchart LR
 **Nota:** Todos los límites gratuitos están sujetos a cambios según las políticas de cada proveedor. Se recomienda verificar la documentación oficial antes de la implementación.
 
 ------------------------------------------------------------------------------------------------------------------------------------
------NOTA: ( Puedes crear tu propio Asistente Virtual con todas las tecnologyas propuestas arriba )--------------------------------
+-NOTA: ( Puedes crear tu propio Asistente Virtual con todas las tecnologyas propuestas arriba )----------------------------
 --------------------------------------------------------------------------------------------------------------------------------
 
-# 🌟 Eliana Méndez: Business Assistant AI Companion
+# Esta de aqui es mi propuesta personal:
+Meet Eliana Méndez:
+![Vista previa del juego](MendezEliana.jpg)
+🌟 Your next Business Assistant AI Companion
 
-*Ayuda a los usuarios a mantenerse enfocados en 3 objetivos clave (mental, emocional, espiritual)* mediante un flujo integrado de APIs gratuitas de IA. ¡Personalizable, open-source y diseñado para impacto real!
+*Su principal objetivo es Ayudar a los usuarios a mantenerse enfocados en sus objetivos * mediante un flujo integrado de APIs gratuitas de IA. 
+¡Personalizable, open-source y diseñado para una transformación real!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tu-usuario/eliana-mendez/pulls)

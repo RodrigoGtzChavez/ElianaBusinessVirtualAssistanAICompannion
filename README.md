@@ -143,12 +143,17 @@ Meet Eliana Méndez:
 </p>
 
 ## 🚀 Visión del Proyecto
-Eliana Méndez es un *asistente de IA* que combina múltiples APIs gratuitas para:
+Eliana Méndez es un *asistente de IA* que combina múltiples APIs gratuitas para lograr 3 Objetivos Especificos ( Customizable por el Usuario):
 1. *Mental*: Planificación de objetivos con GPT-4o/Gemini.
 2. *Emocional*: Terapia conversacional con Claude 3 + generación de imágenes relajantes.
 3. *Espiritual*: Reflexiones diarias con Llama 3/Mistral y recomendaciones de eventos locales.
 
-*Objetivo*: Evitar la dispersión y mantener al usuario enfocado en solo 3 prioridades.
+*Objetivo*: Evitar la dispersión y mantener al usuario enfocado en solo 3 prioridades hasta Llevarlas a victorioso logro. Accomplished. Mission Succed....
+
+
+---'''
+---
+
 
 ## 🔍 Demo (Opcional)
 [![Demo en Vercel](https://img.shields.io/badge/Demo-Live-green)](https://eliana-mendez.vercel.app)

@@ -129,7 +129,7 @@ flowchart LR
 
 # Esta de aqui es mi propuesta personal:
 Meet Eliana Méndez:
-![Vista previa del juego](MendezEliana.jpg)
+![Vista previa del juego](structure.jpg)
 🌟 Your next Business Assistant AI Companion
 
 *Su principal objetivo es Ayudar a los usuarios a mantenerse enfocados en sus objetivos * mediante un flujo integrado de APIs gratuitas de IA. 
@@ -170,3 +170,4 @@ Eliana Méndez es un *asistente de IA* que combina múltiples APIs gratuitas par
 
 
 
+![Vista previa del juego](MendezEliana.jpg)

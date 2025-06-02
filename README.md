@@ -122,3 +122,42 @@ flowchart LR
 ---
 
 **Nota:** Todos los límites gratuitos están sujetos a cambios según las políticas de cada proveedor. Se recomienda verificar la documentación oficial antes de la implementación.
+
+------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+
+# 🌟 Eliana Méndez: Business Assistant AI Companion
+
+*Ayuda a los usuarios a mantenerse enfocados en 3 objetivos clave (mental, emocional, espiritual)* mediante un flujo integrado de APIs gratuitas de IA. ¡Personalizable, open-source y diseñado para impacto real!
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tu-usuario/eliana-mendez/pulls)
+
+<p align="center">
+  <img src="https://ejemplo.com/ruta-a-tu-logo.png" width="300" alt="Logo Eliana Méndez">
+</p>
+
+## 🚀 Visión del Proyecto
+Eliana Méndez es un *asistente de IA* que combina múltiples APIs gratuitas para:
+1. *Mental*: Planificación de objetivos con GPT-4o/Gemini.
+2. *Emocional*: Terapia conversacional con Claude 3 + generación de imágenes relajantes.
+3. *Espiritual*: Reflexiones diarias con Llama 3/Mistral y recomendaciones de eventos locales.
+
+*Objetivo*: Evitar la dispersión y mantener al usuario enfocado en solo 3 prioridades.
+
+## 🔍 Demo (Opcional)
+[![Demo en Vercel](https://img.shields.io/badge/Demo-Live-green)](https://eliana-mendez.vercel.app)
+(Incluir GIF de la interfaz aquí)
+
+## 🛠 Tecnologías y APIs Usadas
+| Categoría       | Tecnologías/APIs                                                                 |
+|-----------------|----------------------------------------------------------------------------------|
+| *Backend*     | Python (FastAPI/Flask), Node.js                                                  |
+| *Frontend*    | React/Next.js, TailwindCSS                                                       |
+| *APIs de IA*  | OpenAI (GPT-4o), Anthropic Claude, Google Gemini, Hugging Face, ElevenLabs, etc. |
+| *Base de Datos*| Supabase (gratis), Firebase                                                      |
+| *Otros*       | Twilio (SMS), SerpAPI (eventos), Replicate (Stable Diffusion)                    |
+
+
+

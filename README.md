@@ -124,7 +124,7 @@ flowchart LR
 **Nota:** Todos los límites gratuitos están sujetos a cambios según las políticas de cada proveedor. Se recomienda verificar la documentación oficial antes de la implementación.
 
 ------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------
+-----NOTA: ( Puedes crear tu propio Asistente Virtual con todas las tecnologyas propuestas arriba )--------------------------------
 --------------------------------------------------------------------------------------------------------------------------------
 
 # 🌟 Eliana Méndez: Business Assistant AI Companion

@@ -124,10 +124,12 @@ flowchart LR
 **Nota:** Todos los límites gratuitos están sujetos a cambios según las políticas de cada proveedor. Se recomienda verificar la documentación oficial antes de la implementación.
 
 ------------------------------------------------------------------------------------------------------------------------------------
--NOTA: ( Puedes crear tu propio Asistente Virtual con todas las tecnologyas propuestas arriba )----------------------------
+-PD: ( Puedes crear tu propio Asistente Virtual con todas las tecnologyas propuestas arriba )----------------------------
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Esta de aqui es mi propuesta personal:
+# Esta de aqui es mi propuesta:
+![Vista previa del juego](ElianaIphoneMockup.png)
+
 Meet Eliana AI:
 ![Vista previa del juego](structure.jpg)
 🌟 Your next Business Assistant AI Companion
@@ -170,4 +172,4 @@ Eliana AI es un *asistente de IA* que combina múltiples APIs gratuitas para log
 
 
 
-![Vista previa del juego](ElianaIphoneMockup.png)
+

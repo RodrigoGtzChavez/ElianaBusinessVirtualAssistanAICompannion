@@ -134,23 +134,29 @@ Meet Eliana AI:
 ![Vista previa del juego](structure.jpg)
 🌟 Your next Business Assistant AI Companion
 
-*Su principal objetivo es Ayudar a los usuarios a mantenerse enfocados en sus objetivos * mediante un flujo integrado de APIs gratuitas de IA. 
+*Su principal objetivo es Ayudarte a lograr 3 "Objetivos" ("Metas", "Proyectos", "Sueños", "Crisis",etc) y mantenerte enfocado hasta llevarlos a Victorioso Logro 
+
+¿Cómo? * mediante un flujo integrado de APIs gratuitas de IA. 
 ¡Personalizable, open-source y diseñado para una transformación real!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tu-usuario/eliana-mendez/pulls)
 
 <p align="center">
-  <img src="https://ejemplo.com/ruta-a-tu-logo.png" width="300" alt="Logo Eliana Méndez">
+  <img src="https://ejemplo.com/ruta-a-tu-logo.png" width="300" alt="Logo Eliana AI">
 </p>
 
 ## 🚀 Visión del Proyecto
-Eliana AI es un *asistente de IA* que combina múltiples APIs gratuitas para lograr 3 Objetivos Especificos ( Customizable por el Usuario):
+Eliana AI es un *asistente de IA* que combina múltiples APIs gratuitas para lograr 3 Objetivos Especificos ( Customizables por el Usuario):
+Estructurados en base a 3 Areas de vida personal: 
+El Código de eliana lleva por dentro (Hardcoded) to insist you into dividing your 3 main pain points. 
+Order by:
+
 1. *Mental*: Planificación de objetivos con GPT-4o/Gemini.
 2. *Emocional*: Terapia conversacional con Claude 3 + generación de imágenes relajantes.
 3. *Espiritual*: Reflexiones diarias con Llama 3/Mistral y recomendaciones de eventos locales.
 
-*Objetivo*: Evitar la dispersión y mantener al usuario enfocado en solo 3 prioridades hasta Llevarlas a victorioso logro. Accomplished. Mission Succed....
+*Objetivo*: Evitar la dispersión y mantener al usuario enfocado en solo 3 prioridades hasta Lograrlo. Objective Accomplished. Mission Succed....
 
 
 ---'''

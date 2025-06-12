@@ -177,5 +177,15 @@ Order by:
 | *Otros*       | Twilio (SMS), SerpAPI (eventos), Replicate (Stable Diffusion)                    |
 
 
+El objetivo 
+El objetive
+El objetivo 
+El objetivo es que veas tu vida como un ecosistema donde todas las áreas se apoyan mutuamente, no como compartimentos separados que compiten por tu atención.
+El sistema de The Life Book con las 12 áreas de bienestar es excelente para crear esa coherencia que buscamos,
 
+Intro
+3
+/
+3
+/
 
